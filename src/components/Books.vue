@@ -1,6 +1,10 @@
 <template>
   <div>
-      Hello
+      <v-card>
+        <v-card-title>
+          hello
+        </v-card-title>
+      </v-card>
   </div>
 </template>
 
